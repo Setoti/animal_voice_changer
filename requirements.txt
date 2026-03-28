@@ -1,5 +1,4 @@
-setuptools
-cython
+setuptools==80.9.0
 streamlit
 librosa
 soundfile
