@@ -1,4 +1,5 @@
 setuptools
+cython
 streamlit
 librosa
 soundfile

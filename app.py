@@ -5,7 +5,7 @@ import numpy as np
 import soundfile as sf
 import io
 import resampy
-#import pyworld as pw
+import pyworld as pw
 
 # ページ設定
 st.set_page_config(page_title="どうぶつ語ボイスチェンジャー", layout="centered")
