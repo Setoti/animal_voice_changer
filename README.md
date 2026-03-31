@@ -1,6 +1,6 @@
 # 🍃 どうぶつ語ボイスチェンジャー 
 
-アップロードした音声を、某スローライフゲームに登場する「どうぶつ語」風の音声にリアルタイムで変換するStreamlitアプリです。
+アップロードした音声を、某スローライフゲームに登場する「どうぶつ語」風の音声に変換するStreamlitアプリです。
 
 ## 🚀 アプリを試す
 **[こちらをクリックして起動 (Streamlit Community Cloud)](https://animalvoicechanger.streamlit.app/)**
